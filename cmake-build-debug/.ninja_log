@@ -1,0 +1,17 @@
+# ninja log v5
+0	1654	7179095061569377	CMakeFiles/auction.dir/src/main.cpp.obj	5f6b643008a1b524
+17	1460	7179111528227273	CMakeFiles/auction.dir/src/Auction.cpp.obj	514e0f8d73bb0c49
+4	679	7179112627978573	CMakeFiles/auction.dir/src/Evaluator.cpp.obj	d7d2e5b7d6ca8319
+5	834	7179111521956262	CMakeFiles/auction.dir/src/User.cpp.obj	8f0df93398c0fb4b
+10	828	7179111521915622	CMakeFiles/auction.dir/src/Bid.cpp.obj	ec81ebc7ab2d75a6
+4	22572	7179122748061066	CMakeFiles/auction.dir/tests/test-evaluator.cpp.obj	154b99e2c4f824be
+22572	80837	7179123331040212	auction.exe	350f81d2809e9e57
+1	266	7179124560469558	build.ninja	7504ef82dbadf22f
+16	875	7179127436339900	CMakeFiles/auction.dir/src/Evaluator.cpp.obj	d7d2e5b7d6ca8319
+7	25949	7179127686519143	CMakeFiles/auction.dir/tests/test-evaluator.cpp.obj	154b99e2c4f824be
+25950	88672	7179128314189553	auction.exe	350f81d2809e9e57
+7	909	7179128349170608	CMakeFiles/auction.dir/src/Evaluator.cpp.obj	d7d2e5b7d6ca8319
+909	61497	7179128954925456	auction.exe	350f81d2809e9e57
+7	1050	7179129243028382	CMakeFiles/auction.dir/src/Evaluator.cpp.obj	d7d2e5b7d6ca8319
+17	25324	7179129485314306	CMakeFiles/auction.dir/tests/test-evaluator.cpp.obj	154b99e2c4f824be
+25324	112975	7179130361529762	auction.exe	350f81d2809e9e57
